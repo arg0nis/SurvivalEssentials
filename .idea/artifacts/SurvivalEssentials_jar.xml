@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SurvivalEssentials:jar">
+    <output-path>$PROJECT_DIR$/../../TestServr/plugins</output-path>
+    <root id="archive" name="SurvivalEssentials.jar">
+      <element id="module-output" name="SurvivalEssentials" />
+    </root>
+  </artifact>
+</component>

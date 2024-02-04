@@ -1,0 +1,15 @@
+name: SurvivalEssentials
+version: '1.0-SNAPSHOT'
+main: com.arg0nis.survivalessentials.SurvivalEssentials
+api-version: '1.20'
+authors: [Arg0nis]
+description: Essential Survival plugins for Minecraft
+commands:
+  setspawn:
+    description: Set Player Spawn
+    permission: survivalessentials.setspawn
+    permission-message: You dont have permission to set Spawn Location.
+permissions:
+  survivalessentials.setspawn:
+    description: Allows player to set Spawn Location.
+    default: true
